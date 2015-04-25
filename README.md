@@ -1,9 +1,7 @@
 # Getting and cleaning data course
 The run_analysis.R performs the following steps:
-## Step 1: Merge the training and test data sets
-Training data set
-test data set
-merge training and test data sets
+## Step 1
+Merge the training and test data sets
 ## Step 2
 Extracts only the measurements on the mean and standard deviation for each measurement
 ## Step 3
